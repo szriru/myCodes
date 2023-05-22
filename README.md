@@ -1,0 +1,2 @@
+# myCodes
+memos for coding
